@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bscharan
-- 👀 I develop apps/websites/games and what not, just because I can and they are fun
+- 👋 Hi, I’m @bscharan. Welcome to my Personal Project Space.
+- 👀 I develop apps/websites/games and every thing that i find interesting
 - 🌱 happy exploring and have fun.
 - 📫 If you have queries regd my projects or any other recomendations , you can reach me at bscharan1729@gmail.com.(please start your mail title with "[github]" tag for faster response)
 
